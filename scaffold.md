@@ -12,13 +12,13 @@
 
 **yeoman版本**: v2.0.6
 
-**生成时间**: 2019-10-11 12:11:13
+**生成时间**: 2019-10-11 12:18:31
 
 **生成方式**: 命令模式
 
-**生成参数**: {"groupId":"com.deepexi","artifactId":"deepexi-dubbo","basePackage":"com.deepexi","mavenUrl":"","discovery":"nacos","converter":"none","db":"none","dbPool":"none","orm":"none","circuit":"none","mq":"none","webServer":"tomcat","demo":true,"mode":"command","cli":"yo generator-deepexi-dubbo -c --groupId=com.deepexi --artifactId=deepexi-dubbo --basePackage= --mavenUrl= --discovery=nacos --converter=none --db=none --dbPool=none --orm=none --circuit=none --mq=none --webServer=tomcat --demo=true","version":"1.3.0","conditions":{"none":false,"no-circuit":true,"no-converter":true},"basePath":"com/deepexi","basic":true}
+**生成参数**: {"groupId":"com.deepexi","artifactId":"deepexi-dubbo","basePackage":"com.deepexi","mavenUrl":"","discovery":"nacos","converter":"none","db":"none","dbPool":"none","orm":"none","circuit":"none","mq":"rabbitmq","webServer":"tomcat","demo":true,"mode":"command","cli":"yo generator-deepexi-dubbo -c --groupId=com.deepexi --artifactId=deepexi-dubbo --basePackage= --mavenUrl= --discovery=nacos --converter=none --db=none --dbPool=none --orm=none --circuit=none --mq=rabbitmq --webServer=tomcat --demo=true","version":"1.3.0","conditions":{"rabbitmq":true,"none":false,"no-circuit":true,"no-converter":true},"basePath":"com/deepexi","basic":true}
 
-**生成命令**: yo generator-deepexi-dubbo -c --groupId=com.deepexi --artifactId=deepexi-dubbo --basePackage= --mavenUrl= --discovery=nacos --converter=none --db=none --dbPool=none --orm=none --circuit=none --mq=none --webServer=tomcat --demo=true
+**生成命令**: yo generator-deepexi-dubbo -c --groupId=com.deepexi --artifactId=deepexi-dubbo --basePackage= --mavenUrl= --discovery=nacos --converter=none --db=none --dbPool=none --orm=none --circuit=none --mq=rabbitmq --webServer=tomcat --demo=true
 
 ## 项目参考
 
